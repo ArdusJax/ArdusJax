@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello! Great to see you.&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello, and welcome!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/chris-o-brian-487ab532/">
