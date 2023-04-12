@@ -86,7 +86,7 @@ hobbies: ["Gaming", "Electric Guitar", "Concert Going", "Art", "Comedy"]
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArdusJax&count_private=true&show_icons=true&theme=aura&card_width=200&line_height=15" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArdusJax&count_private=true&show_icons=true&theme=aura&card_width=200&line_height=20" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdusJax&theme=aura&layout=compact&card_width=405"/>
 </a>
 
