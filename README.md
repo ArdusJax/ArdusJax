@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=265&section=header&text=Hi,%20I'm%20Chris!&fontSize=70&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=265&section=header&text=Hi,%20I'm%20Chris!&fontSize=70&animation=fadeIn" />
 </p>
 
 
@@ -85,6 +85,8 @@ hobbies: ["Gaming", "Electric Guitar", "Concert Going", "Art", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdusJax&count_private=true&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdusJax&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 ![Snake animation](https://github.com/ArdusJax/ArdusJax/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
