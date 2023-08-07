@@ -84,4 +84,4 @@ hobbies: ["Gaming", "Electric Guitar", "Concert Going", "Art", "Comedy"]
 
 ---
 
-![Snake animation](https://github.com/ArdusJax/ArdusJax/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ArdusJax/ArdusJax/blob/output/github-contribution-grid-snake-dark.svg)
