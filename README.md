@@ -41,8 +41,8 @@ technical_background:
     "DevOps Solutions Architect",
   ]
 
-currently_learning: ["Polars/Smartcore (ML), TensorFlow, HTML over the wire"]
-2023 Goals: ["Refine my knowledge of Rust"]
+currently_learning: ["Polars/Smartcore (ML), HTML over the wire"]
+2023 Goals: ["Refine my knowledge of Rust and Python, learn OCaml"]
 hobbies: ["Gaming", "Electric Guitar", "Concert Going", "Art", "Comedy"]
 ```
 
